@@ -2,15 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-![Me](https://github.com/MiguelitoM/MiguelitoM/blob/main/banner.png?raw=true)
-
-## 💻 Tech Skills & Tools
-
-The following are programming languages, frameworks, and tools I have hands-on experience with.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=apple,git,github,gitlab,vscode,figma,html,md,js,ts,py,java,c,cpp,rust,bash,powershell,docker,postgres,maven,qt,latex,sklearn,p5js,discord,bots,stackoverflow,windows,yarn&perline=18" />
-</p>
+![Me](https://github.com/MiguelitoM/MiguelitoM/blob/main/banner.JPG?raw=true)
 
 ## 📫 Contact
 
